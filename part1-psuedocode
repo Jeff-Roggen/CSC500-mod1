@@ -9,8 +9,8 @@
     display "Second number is:" + num2
 
 #processing section
-    sum num1 and num2 and display the equation
-    subtract num2 from num1 and display the equation
+    sum num1 and num2
+    subtract num2 from num1
 
 #output section
     display num1 + num2 "=" total
