@@ -1,0 +1,19 @@
+#CSC500 - Mod1 CT - Part1 - Psuedocode
+#Desc - Psuedocode - Add and subtract numbers and display equation
+#Jeff Roggen
+
+#inputsection
+    input "Enter first number" into num1 #input 1
+    display "The first number is:" + num1
+    input "enter second number" into num2 #input 2
+    display "Second number is:" + num2
+
+#processing section
+    sum num1 and num2 and display the equation
+    subtract num2 from num1 and display the equation
+
+#output section
+    display num1 + num2 "=" total
+    display num1 - num2 "=" difference
+
+#end
