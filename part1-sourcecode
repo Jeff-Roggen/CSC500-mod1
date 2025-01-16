@@ -1,8 +1,12 @@
 num1 = input('Enter first number:\n')
 num1 = float(num1)  # Convert input to float
+
 print("The first number is:", num1)
+
 num2 = input('Enter second number:\n')
 num2 = float(num2)  # Convert input to float
+
 print("The second number is:", num2)
+
 print(num1, "+", num2, "=", num1 + num2)
 print(num1, "-", num2, "=", num1 - num2)
