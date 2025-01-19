@@ -1,3 +1,16 @@
+#CSC500 - Module One Critical Thinking Assignment - Part1 and Part2 
+#Jeff Roggen
+
+#Part 1 - Add and subtract numbers and display equation
+  #1. Get the first number from the user.
+  #2. Convert the first number to a floating-point number.
+  #3. Display the first number.
+  #4. Get the second number from the user.
+  #5. Convert the second number to a floating-point number.
+  #6. Display the second number.
+  #7. Calculate the sum of the two numbers and display the equation.
+  #8. Calculate the difference between the two numbers and display the equation.
+
 num1 = input('Enter first number:\n')
 num1 = float(num1)  # Convert input to float
 
@@ -11,18 +24,15 @@ print("The second number is:", num2)
 print(num1, "+", num2, "=", num1 + num2)
 print(num1, "-", num2, "=", num1 - num2)
 
-#Part 2
-
-#1. Get the first number from the user.
-#2. Convert the first number to a floating-point number.
-#3. Display the first number.
-#4. Get the second number from the user.
-#5. Convert the second number to a floating-point number.
-#6. Display the second number.
-#7. Calculate the sum the two numbers and display the equation.
-#8. Calculate the difference the two numbers and display the equation.
-
-
+#Part 2 - Multiply and divide numbers and display equation
+  #1. Get the first number from the user.
+  #2. Convert the first number to a floating-point number.
+  #3. Display the first number.
+  #4. Get the second number from the user.
+  #5. Convert the second number to a floating-point number.
+  #6. Display the second number.
+  #7. Calculate the product of the two numbers and display the equation.
+  #8. Calculate the quotient by dividing num1 by num2 and display the equation.
 
 num1 = input('Enter first number:\n')
 num1 = float(num1)  # Convert input to float
